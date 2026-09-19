@@ -1,12 +1,8 @@
 # Jev playground
 
-[![Jev piloting the arcade space shooter](docs/jevvy-preview.jpg)](docs/jevvy-readme.mp4)
+[![Play the Jev arcade demo](docs/jevvy-preview.jpg)](https://cdn.jsdelivr.net/gh/darvat/jevvy@master/docs/jevvy-readme.mp4)
 
-<video src="docs/jevvy-readme.mp4" poster="docs/jevvy-preview.jpg" controls preload="metadata" width="960">
-  <a href="docs/jevvy-readme.mp4">Watch the arcade demo</a>
-</video>
-
-[Watch the arcade demo](docs/jevvy-readme.mp4)
+[▶ Play the arcade demo (83 seconds)](https://cdn.jsdelivr.net/gh/darvat/jevvy@master/docs/jevvy-readme.mp4)
 
 A local web app for trying [TypeSafe AI](https://docs.typesafe.ai/introduction) decisions. Build a request with one shared state and several independent questions, run it with your own API key, and inspect the typed answers. The app also includes an arcade where Jev pilots a space shooter from a text radar feed.
 
